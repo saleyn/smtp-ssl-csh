@@ -1,0 +1,9 @@
+.idea
+.vs
+*/bin
+*/obj
+build
+*.*.filters
+*.*.user
+*.pdb
+page.out
